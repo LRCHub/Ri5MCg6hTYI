@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アパシー",
+  "base_artist": "Aooo",
+  "createdAt": "2026-02-13T23:38:13.725122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アパシー",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/01_アパシー_ano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アパシー",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_アパシー_Aooo.txt"
+    }
+  ]
+}
